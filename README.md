@@ -1,6 +1,6 @@
 ## [Live Demo ()=>](https://enpara-form-onuryks.netlify.app/)
 
-##### u: kodluyoruz  p:bootcamp109 - test coverage 70%
+##### u: kodluyoruz  p:bootcamp109 
 
 <h3 align="left">Languages and Tools:</h3>
 
